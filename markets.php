@@ -10,7 +10,7 @@
 <div id="marketsTop">
     <!-- <img id="marketsImage" src="/resources/images/paul 1000x1000.jpg" alt="" srcset=""> -->
     <p id="marketsText">
-        You can find us at weekly markets from the schedule below, or contact us via our contact form or by phone on <strong>07527 898767</strong> to arrange for delivery.
+        You can find us at weekly markets from the schedule below, or contact us via our contact form or by phone on <strong class="phoneNumber"><span>07527</span><span>898767</span></strong> to arrange for delivery.
     </p>
 </div>
 

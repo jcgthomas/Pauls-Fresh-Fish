@@ -483,6 +483,11 @@ p a:hover {
   margin-right: 20px;
 }
 
+.phoneNumber span {
+  letter-spacing: 0.05rem;
+  margin: 0 2px;
+}
+
 table {
   width: 100%;
 }

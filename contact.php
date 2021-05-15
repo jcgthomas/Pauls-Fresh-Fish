@@ -6,7 +6,7 @@
 <h1 class="title">Drop us a message</h1>
 
 <p class="callPaul">
-Call Paul on <strong>07527 898767</strong> for enquiries or to arrange a delivery.
+Call Paul on <strong class="phoneNumber"><span>07527</span><span>898767</span></strong> for enquiries or to arrange a delivery.
 </p>
 <p class="callPaul">
 You can also <a class="textFacebook" href="https://www.facebook.com/paulsfish2010" target="_blank">visit our facebook page by clicking here.</a>
